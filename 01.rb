@@ -6,5 +6,5 @@ ideal = rost.to_i - 110
 if ideal > 0
     puts "#{name}, hi! Tvoi ideal ves #{ideal}"
 else
-    puts "ves optimalen"
+    puts "вес оптимален"
 end
